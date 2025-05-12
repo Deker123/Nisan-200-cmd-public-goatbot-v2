@@ -23,7 +23,7 @@
     "SAMIR": "https://apis-samir.onrender.com",
     "RUBISH": "https://rubish-apihub.onrender.com/rubish"
   },
-  "nickNameBot": "『 - 』 John bot",
+  "nickNameBot": "『 - 』Carl bot",
   "prefix": "-",
   "vipUser": [
     "61564459952029",
@@ -31,7 +31,7 @@
     "100056093558255"
   ],
   "orgDEV": [
-    "61564459952029",
+    "100056093558255",
     "",
     ""
   ],
@@ -41,13 +41,13 @@
     "100056093558255"
   ],
 "nisanBot": [
-    "61564459952029"
+    "100056093558255"
   ],
 
   "rubishapi": "https://rubish-apihub.onrender.com/rubish",
   "diptoapi": "https://d1pt0-call-bomber.onrender.com/dipto?",
   "GOD": [
-    "61564459952029",
+    "100056093558255",
     "",
     ""
   ],
@@ -59,7 +59,7 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61564459952029",
+      "100056093558255",
       "",
       ""
     ],
